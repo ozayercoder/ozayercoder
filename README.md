@@ -3,7 +3,12 @@
 </p>
 <h1 align="center">Hi 👋, I'm Ozayer Ibne Kamal</h1>
 
-
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Passionate+Full+Stack+Developer;Interested+in+Software+Engineering;Learning+New+Skills"
+    alt="Typing SVG"
+  />
+</p>
 - 🌱 I’m currently learning **Ai driven Full Stack web development**
 
 - 💬 Ask me about **JavaScript, React, Frontend development**
