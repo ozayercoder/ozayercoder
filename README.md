@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ozayer Ibne Kamal</h1>
-https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+full+stack+web+developer;Interested+in+Software+Engineering;learning+new+skills+
+
 
 - 🌱 I’m currently learning **Ai driven Full Stack web development**
 
