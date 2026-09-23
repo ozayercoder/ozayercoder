@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpg" alt="Profile Banner" width="100%">
+  <img src="./mainbanner.png" alt="Profile Banner" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Ozayer Ibne Kamal</h1>
 
