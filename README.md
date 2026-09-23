@@ -9,6 +9,19 @@
     alt="Typing SVG"
   />
 </p>
+
+
+<h2 align="left">About Me</h2>
+<p align="left">
+  👋 I'm Ozayer, a student and aspiring Full Stack Developer from Bangladesh.
+  <br><br>
+  💻 I'm currently learning AI-driven Full Stack Web Development and building projects with modern web technologies.
+  <br><br>
+  🧠 I have a strong interest in Software Engineering, problem solving, and learning how things work under the hood.
+  <br><br>
+  🚀 I enjoy turning ideas into practical applications and continuously improving my development skills.
+</p>
+
 - 🌱 I’m currently learning **Ai driven Full Stack web development**
 
 - 💬 Ask me about **JavaScript, React, Frontend development**
