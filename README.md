@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ozayer Ibne Kamal</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+full+stack+web+developer;Interested+in+Software+Engineering;learning+new+skills+)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **Ai driven Full Stack web development**
 
